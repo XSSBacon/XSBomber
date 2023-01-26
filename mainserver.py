@@ -6,18 +6,18 @@ import requests
 
 
 
-color 0A
 
-print (f"""
+print (f"""         XSBOMBER
                                                            
                github.com/XSSBACON                     
 
 """)
-sleep(2)
+sleep(5)
 print(f"""
 Starting Server..
 v1.0
 """)
+sleep (5)
 print(f"""
 Executing XS PROTECT Script..
 v1.0
@@ -27,7 +27,7 @@ Starting Spam Bomber Menu
 
 v1.0
 """)
-sleep(0.1)
+sleep(3)
 os.system("cls")
 # load up the main
 LINK = input("Enter the discord webhook url: ")
