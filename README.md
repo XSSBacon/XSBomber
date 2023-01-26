@@ -1,30 +1,18 @@
-# BLOXXSS V1
+# XSBOMBER v1.0
 
-A Undetectable ROBLOX Game Backdoor Script To Run Scripts And Admin Commands (In Development)
+A discord webhook bomber to send attacks and spam messages from the console
 
-# To do
-- Make the script into a roblox plugin ❔
-- More admin commands ✔
-- Finish the project in a month or two ✔✔
+# NOTES 📋
+- This is a very basic written script and it's not protected from glitches so I'll update it few times every week
+- Also **DO NOT** write issues that claim that my program is infected and malicious, I encrypted the code to protect it from skids
+- You need some requirements to run this program if you haven't already installed them
 
+# Updates ⚒
+- 26/01/2023 Released to public ✔✔
+- 20/01/2023 Patched Code ✔✔
 
-
-# Features / Commands
-- (Command)  XSSBacon's Decal Server Destroyer Script V1
-- (Command) Get Admin
-- (Command) Get F3X Build tools
-- (Command) Chat Bypass (Game Ban Method)
+# Example
 
 
-# How To Use
--Download this script and put your username in the blanks *DO Not Modify Code*
 
--Save the script and add it into roblox studio and hide it into a model
-
--Upload the model with the infected script inside
-
--Send it to your victim
-
--Go to your victim's game and chat the commands to check if they are inside
-
--You can also use this to get a game banned or put it into a fake antivirus ROBLOX plugin 
+# How To Use 
