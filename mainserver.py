@@ -9,26 +9,25 @@ import requests
 color 0A
 
 print (f"""
-                     $$\                                               
-                    $$ |                                              
-$$\   $$\  $$$$$$$\ $$$$$$$\   $$$$$$\   $$$$$$$\  $$$$$$\  $$$$$$$\  
-\$$\ $$  |$$  _____|$$  __$$\  \____$$\ $$  _____|$$  __$$\ $$  __$$\ 
- \$$$$  / \$$$$$$\  $$ |  $$ | $$$$$$$ |$$ /      $$ /  $$ |$$ |  $$ |
-$$  $$<   \____$$\ $$ |  $$ |$$  __$$ |$$ |      $$ |  $$ |$$ |  $$ |
-$$  /\$$\ $$$$$$$  |$$$$$$$  |\$$$$$$$ |\$$$$$$$\ \$$$$$$  |$$ |  $$ |
-\__/  \__|\_______/ \_______/  \_______| \_______| \______/ \__|  \__|
-                                                                      
-                                                                      
+                                                           
                github.com/XSSBACON                     
 
 """)
-
-print(f"""
-
-XS Bacon
-Ghalbeyou presents ...
-""")
 sleep(2)
+print(f"""
+Starting Server..
+v1.0
+""")
+print(f"""
+Executing XS PROTECT Script..
+v1.0
+""")
+print(""" 
+Starting Spam Bomber Menu
+
+v1.0
+""")
+sleep(0.1)
 os.system("cls")
 # load up the main
 LINK = input("Enter the discord webhook url: ")
