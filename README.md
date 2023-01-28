@@ -7,7 +7,9 @@ A discord webhook bomber to send attacks spam messages from the console
 - 26/01/2023 Released to public ✔✔
 - 23/01/2023 Patched Code ✔✔
 
-# Example
+# Common Erros
+' Requirements
+
 
 
 
