@@ -1,5 +1,7 @@
--- The code below is not a virus
--- I encrypted it to protect it from stealer
+# The code below is not a virus I encrypted it to protect it from stealers
+# Don't waste your time making issues saying it is malicious
+
+# github.com/XSSBacon
 
 #pip install pycryptodome
 import random ,base64,codecs,zlib;pyobfuscate=""
