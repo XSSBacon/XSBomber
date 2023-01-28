@@ -1,6 +1,8 @@
 # The code below is not a virus I encrypted it to protect it from stealers
 # Don't waste your time making issues saying it is malicious
 
+# This Uses pyobfuscate.com/pyd/ obfuscate tool btw
+
 # github.com/XSSBacon
 
 #pip install pycryptodome
