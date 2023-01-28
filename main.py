@@ -3,11 +3,11 @@ import random
 import threading
 from time import sleep
 import requests
-import colorama
+from colorama import Fore, Back, Style
+import rich
 
 
-
-    banner = """
+print (f"""
     
  __   __ _____            ____                  _               
  \ \ / // ____|          |  _ \                | |              
@@ -16,10 +16,13 @@ import colorama
   / . \ ____) |          | |_) | (_) | | | | | | |_) |  __| |   
  /_/ \_|_____/           |____/ \___/|_| |_| |_|_.__/ \___|_|  
                                                                                    
+
 >>> github.com/XSBacon
     
     
-    """
+
+
+ """)
 sleep(5)
 print(f"""
 Starting Server..
