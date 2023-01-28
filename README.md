@@ -6,14 +6,6 @@ A discord webhook bomber to send attacks spam messages from the console
 # Updates ⚒
 - 26/01/2023 Released to public ✔✔
 - 23/01/2023 Patched Code ✔✔
-
-# Common Erros
-~Requirements
-- Install all the modules in install.bat
-
-
-
-
 # How To Use 
 - Run main.py
 - Wait for the console to load
