@@ -4,7 +4,8 @@ A discord webhook bomber to send attacks spam messages from the console
 ![image](https://user-images.githubusercontent.com/123257732/215266570-81544846-7c5a-4359-8ad9-3561d475b3db.png)
 
 # Updates ⚒
-- 26/01/2023 Released to public ✔✔
+- Note: Updating install.bat tomorrow
+- 28/01/2023 Released to public ✔✔
 - 23/01/2023 Patched Code ✔✔
 # How To Use 
 - Run main.py
