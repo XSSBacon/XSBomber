@@ -1,5 +1,5 @@
-// The code below is not a virus
-// I encrypted it to protect it from stealer
+-- The code below is not a virus
+-- I encrypted it to protect it from stealer
 
 #pip install pycryptodome
 import random ,base64,codecs,zlib;pyobfuscate=""
