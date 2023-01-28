@@ -14,8 +14,12 @@ A discord webhook bomber to send attacks spam messages from the console
 - Type your message and send
 - Wait for the results and check your discord server
 ###### Requirements 📋
-Make sure you have the installed requirements for the program, if don't have them then watch this videos on how to instal pip
+Make sure you have the installed requirements for the program, 
 
+If you don't have them then watch this videos on how to instal pip
+```
+random, base64, codecs, zlib, pyobfuscate, import, time, requests, json, threading
+```
 >  https://bit.ly/31X9CQS
 
 
