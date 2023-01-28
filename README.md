@@ -18,6 +18,8 @@ Make sure you have the installed requirements for the program, if don't have the
 
 >  https://bit.ly/31X9CQS
 
+
+
 # NOTES 📋
 - This is a very basic written script and it's not protected from glitches so I'll update it few times every week
 
