@@ -8,7 +8,7 @@ A discord webhook bomber to send attacks spam messages from the console
 - 23/01/2023 Patched Code ✔✔
 
 # Common Erros
-'Requirements
+~Requirements
 - Install all the modules in install.bat
 
 
