@@ -1,6 +1,6 @@
 # The code below is not a virus I encrypted it to protect it from stealers
 # Don't waste your time making issues saying it is malicious
-# This has been updated to support v1.5
+# This has been updated to support version v1.5
 
 
 # Updated 29/01/23 v1.5 XSBomber
