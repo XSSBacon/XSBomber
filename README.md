@@ -10,7 +10,7 @@ A discord webhook bomber to send attacks spam messages from the console
 - [x] 23/01/2023 Patched Code ✔✔
 ## How To Use 
 - Run main.py
-- Wait for the console to load
+- Wait for the console to load it may take a minute
 - Insert your webhook
 - Type your message and send
 - Wait for the results and check your discord server
