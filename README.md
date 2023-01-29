@@ -1,10 +1,11 @@
-# XSBOMBER v1.0
+# XSBOMBER v1.5
 
 A discord webhook bomber to send attacks spam messages from the console
 ![image](https://user-images.githubusercontent.com/123257732/215266570-81544846-7c5a-4359-8ad9-3561d475b3db.png)
 
 # Updates ⚒
-- [x] 28/01/2023 Added Requirements 
+- 🔴I'm aware of a glitch, in the code I'll fix it on monday or the weekends [29/01/2023]🔴
+- [x] 28/01/2023 Added Requirements ✔✔
 - [x] 28/01/2023 Released to public ✔✔
 - [x] 23/01/2023 Patched Code ✔✔
 ## How To Use 
