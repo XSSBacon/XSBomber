@@ -4,7 +4,7 @@ A discord webhook bomber to send attacks spam messages from the console
 ![image](https://user-images.githubusercontent.com/123257732/215266570-81544846-7c5a-4359-8ad9-3561d475b3db.png)
 
 # Updates ⚒
-- [x] 29/01/2023 🔴V1.5 has just released🎉 With Lightning Fast loading⚡ And Hidden IP💻, Check out releases for more info 👉 🔴
+- [x] 29/01/2023 V1.5 has just released with fast loading⚡ and less ratelimits with hidden IP
 - [x] 28/01/2023 Added Requirements ✔✔
 - [x] 28/01/2023 Released to public ✔✔
 - [x] 23/01/2023 Patched Code ✔✔
