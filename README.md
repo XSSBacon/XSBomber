@@ -4,6 +4,7 @@ A discord webhook bomber to send attacks spam messages from the console
 ![image](https://user-images.githubusercontent.com/123257732/215266570-81544846-7c5a-4359-8ad9-3561d475b3db.png)
 
 # Updates ⚒
+- [x] No more updates and support since I'm working on XS Grabber
 - [x] 29/01/2023 V1.5 has just released with fast loading⚡ and less ratelimits with hidden IP
 - [x] 28/01/2023 Added Requirements ✔✔
 - [x] 28/01/2023 Released to public ✔✔
@@ -26,7 +27,7 @@ random, base64, codecs, zlib, pyobfuscate, import, time, requests, json, threadi
 
 
 # NOTES 📋
-- This is a very basic written script and it's not protected from glitches so I'll update it few times every week
+- This is a somewhat basic written script and it's not protected from glitches so I'll update it few times every week
 - **Don't use the same webhook more than 3 times because you will get ratelimited by discord https://discord.com/developers/docs/topics/rate-limits**
 - **Also DO NOT write issues that claim that my program is infected and malicious, I encrypted the code to protect it from skids**
 
